@@ -10,7 +10,6 @@ First install i386 drivers:
 Second, remove steam librarires:
 rm ~/.steam/ubuntu12_32/steam-runtime/i386/usr/lib/i386-linux-gnu/libva*
 
-Download and execute script:
-# wget http://www.jarzebski.pl/files/upboard/steam_fix/fix_steam_links.sh
-# chmod +x fix_steam_links.sh
-# ./fix_steam_links.sh
+
+# chmod +x fix_steam.sh
+# ./fix_steam.sh
