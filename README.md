@@ -2,7 +2,6 @@
  Ubuntu 16.06 with Intel HD
 
 First install i386 drivers:
-
 sudo apt-get install i965-va-driver:i386
 sudo apt-get install libva1:i386
 sudo apt-get install libva-x11-1:i386
